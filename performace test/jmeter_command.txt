@@ -1,0 +1,2 @@
+jmeter -n -t C:\Program.org\apache-jmeter-5.4.1\apache-jmeter-5.4.1\Makro\script.jmx -l script.jtl >> รัน jmeter script ได้ไฟลฺ์ jtl ออกมา 
+jmeter -g script.jtl -o report  >> gen report ออกมาให้อยู่ในรุปของ html
